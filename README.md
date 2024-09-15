@@ -1,4 +1,5 @@
     学习爬虫日常记录， 使用scrapy selenium
+    补充: 另外一个项目research_playwright， 正在学习使用playwright 进行爬取数据
 
     所有的爬取数据来自：https://scrape.center/
 
